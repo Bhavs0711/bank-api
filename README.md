@@ -35,3 +35,9 @@ cd bank-api
 =======
 cd bank-api
 >>>>>>> d26a2a3 (fix deployment)
+
+---
+## Deployment
+
+The API is deployed and accessible at:
+https://bank-api-1-x7dg.onrender.com/docs
