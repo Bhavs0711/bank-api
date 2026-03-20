@@ -29,5 +29,5 @@ A backend API service built using FastAPI to provide information about banks and
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Bhavs0711/bank-api
 cd bank-api
