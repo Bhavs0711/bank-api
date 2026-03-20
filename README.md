@@ -25,6 +25,11 @@ A backend API service built using FastAPI to provide information about banks and
 
 ---
 
+## 🌐 Deployment
+
+The API is deployed and accessible at:
+https://bank-api-1-x7dg.onrender.com/docs
+
 ## Installation & Setup
 
 1. Clone the repository:
@@ -34,10 +39,4 @@ git clone https://github.com/Bhavs0711/bank-api
 cd bank-api
 =======
 cd bank-api
->>>>>>> d26a2a3 (fix deployment)
-
----
-## Deployment
-
-The API is deployed and accessible at:
-https://bank-api-1-x7dg.onrender.com/docs
+>>>>>>> d26a2a3 (fix deployment) 
