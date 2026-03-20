@@ -30,4 +30,8 @@ A backend API service built using FastAPI to provide information about banks and
 1. Clone the repository:
 ```bash
 git clone https://github.com/Bhavs0711/bank-api
+<<<<<<< HEAD
 cd bank-api
+=======
+cd bank-api
+>>>>>>> d26a2a3 (fix deployment)
