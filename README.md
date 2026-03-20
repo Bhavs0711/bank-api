@@ -1,0 +1,33 @@
+# Bank API Server
+
+A backend API service built using FastAPI to provide information about banks and their branches across India. The API supports filtering, searching, and pagination for efficient data retrieval.
+
+---
+
+## Features
+
+- Retrieve list of banks
+- Retrieve branch details
+- Filter branches by city, bank name, and IFSC
+- Pagination support (limit & offset)
+- Clean and structured API responses
+- Test cases included
+
+---
+
+## Tech Stack
+
+- Python
+- FastAPI
+- SQLite
+- SQLAlchemy
+- Pytest
+
+---
+
+## Installation & Setup
+
+1. Clone the repository:
+```bash
+git clone <your-repo-link>
+cd bank-api
